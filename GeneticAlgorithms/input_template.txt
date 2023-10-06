@@ -1,0 +1,12 @@
+5              The size of the matrix
+2           Number of given digits  (0 if the matrix is given empty)
+1 2 4          The i,j coordinates and the value of the given numbers
+3 3 2
+8               The number of “greater than” signs
+1 1 1 2                  The coordinates of the two cells with the > sign between   1 4 2 4                                   them, make  sure  that the coordinates of the greater cell
+2 2 2 3                                      appear first
+3 4 4 4
+4 5 3 5
+4 4 5 4
+5 5 4 5
+5 2 5 1
