@@ -1,6 +1,6 @@
 # GeneticAlgorithms
 Computational Biology - Assignment 2
-Solved by Shlomi Ben-Shushan (ID: [REDACTED_ID]).
+Solved by Shlomi Ben-Shushan.
 
 ## Description
 In this ReadMe file, I will describe the programmatic implementation of a Genetic Algorithm that solves boards of Futoshiki game. Then, I will instruct the usage of a CLI-App I have implemented to test this algorithm.

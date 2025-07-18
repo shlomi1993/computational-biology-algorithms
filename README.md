@@ -1,4 +1,4 @@
-# Computational-Biology-Algorithms
+# Computational Biology Algorithms
 This repository documents implementations of algorithms I learned in a computational biology course, and it is divided into three parts. One part is a program that uses a cellular automata to identify the conditions for the spread of an epidemic, The second is the implementation of a self-organizing map, and the third deals with the implementation of genetic algorithms.
 
 ## Part 1: CoronaWaves
