@@ -24,7 +24,6 @@ At the end of the run, when the user clicks on the 'Stop' button, a patient beha
 * style.py - Document that represents a color palette for easy access to pre-defined colors.
 * main.py - main function.
 
-
 ## Part 2: Self-Organizing-Map
 
 ### Description
@@ -66,7 +65,6 @@ The program output is obtained in three forms:
 ### Screenshots
 Below is an example of the program output:  
 ![image](https://user-images.githubusercontent.com/72878018/173408379-70e5bfd5-f04b-4c99-9ad0-e3cd9090d07d.png)  
-
 
 ## Part 3: GeneticAlgorithms
 
